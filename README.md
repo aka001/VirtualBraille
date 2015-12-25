@@ -1,10 +1,10 @@
 # VirtualBraille
 
-**Team Members:**  
-1. Akash Agrawall  
-2. Rohit SVK  
-3. Ashish Kumar  
-4. Smriti Jain  
+**Team Members:** (along with github handles)  
+1. Akash Agrawall (aka001)  
+2. Rohit SVK (rohitsakala)  
+3. Ashish Kumar (ashishkumar1993)  
+4. Smriti Jain (smriti100jain)  
 
 **Idea:**
 
