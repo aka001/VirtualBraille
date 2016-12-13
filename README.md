@@ -1,10 +1,11 @@
 # VirtualBraille
 
-**Team Members:** (along with github handles)  
+**Team Members:** (github handles) [All have equal contribution] 
 1. Akash Agrawall (aka001)  
-2. Rohit SVK (rohitsakala)  
-3. Ashish Kumar (ashishkumar1993)  
+2. Ashish Kumar (ashishkumar1993)  
+3. Rohit SVK (rohitsakala)  
 4. Smriti Jain (smriti100jain)  
+
 
 **Idea:**
 
